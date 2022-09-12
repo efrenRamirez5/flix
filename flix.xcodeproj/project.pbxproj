@@ -42,13 +42,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B6B2AE1AB7EEFCBA54D00C3 /* Pods-flix-flixUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix-flixUITests.release.xcconfig"; path = "Target Support Files/Pods-flix-flixUITests/Pods-flix-flixUITests.release.xcconfig"; sourceTree = "<group>"; };
-		40C161C2FCD9E091C16C1217 /* Pods-flix.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix.release.xcconfig"; path = "Target Support Files/Pods-flix/Pods-flix.release.xcconfig"; sourceTree = "<group>"; };
+		50188B34256A3554DB354499 /* Pods-flixTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixTests.debug.xcconfig"; path = "Target Support Files/Pods-flixTests/Pods-flixTests.debug.xcconfig"; sourceTree = "<group>"; };
+		598EE641AAC30E0BEEAFDD32 /* Pods-flix-flixUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix-flixUITests.debug.xcconfig"; path = "Target Support Files/Pods-flix-flixUITests/Pods-flix-flixUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		62C22779D13DE388FD8622CE /* Pods_flixTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_flixTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6B30D5E3B80847D78066A6CA /* Pods-flix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix.debug.xcconfig"; path = "Target Support Files/Pods-flix/Pods-flix.debug.xcconfig"; sourceTree = "<group>"; };
-		6DBB74570E6534C67778FF9E /* Pods-flixTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixTests.release.xcconfig"; path = "Target Support Files/Pods-flixTests/Pods-flixTests.release.xcconfig"; sourceTree = "<group>"; };
-		739D89EB6578CE0AC20A2C25 /* Pods-flixTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixTests.debug.xcconfig"; path = "Target Support Files/Pods-flixTests/Pods-flixTests.debug.xcconfig"; sourceTree = "<group>"; };
-		9B4F668DA60F9035936241D5 /* Pods-flix-flixUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix-flixUITests.debug.xcconfig"; path = "Target Support Files/Pods-flix-flixUITests/Pods-flix-flixUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		B3398176601DE780911D4D7D /* Pods-flix-flixUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix-flixUITests.release.xcconfig"; path = "Target Support Files/Pods-flix-flixUITests/Pods-flix-flixUITests.release.xcconfig"; sourceTree = "<group>"; };
 		BFEA8CCE56293FCADCA31948 /* Pods_flix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_flix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6D039CA28CC49BA003593F1 /* flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6D039CD28CC49BA003593F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,7 +62,10 @@
 		C6D039F028CC49C2003593F1 /* flixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C6D039FD28CC4B64003593F1 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		C6D039FF28CE50F5003593F1 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		E47EA65A5C9285B486990F6D /* Pods-flix.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix.release.xcconfig"; path = "Target Support Files/Pods-flix/Pods-flix.release.xcconfig"; sourceTree = "<group>"; };
 		F03BEC69A8C363FA587B5613 /* Pods_flix_flixUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_flix_flixUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8EF43D7C3C1DED91EF13D7B /* Pods-flix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flix.debug.xcconfig"; path = "Target Support Files/Pods-flix/Pods-flix.debug.xcconfig"; sourceTree = "<group>"; };
+		F9904A14BB3E55D932FE66AD /* Pods-flixTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixTests.release.xcconfig"; path = "Target Support Files/Pods-flixTests/Pods-flixTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,20 +107,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		83E14B070E97656C12E72B82 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				6B30D5E3B80847D78066A6CA /* Pods-flix.debug.xcconfig */,
-				40C161C2FCD9E091C16C1217 /* Pods-flix.release.xcconfig */,
-				9B4F668DA60F9035936241D5 /* Pods-flix-flixUITests.debug.xcconfig */,
-				0B6B2AE1AB7EEFCBA54D00C3 /* Pods-flix-flixUITests.release.xcconfig */,
-				739D89EB6578CE0AC20A2C25 /* Pods-flixTests.debug.xcconfig */,
-				6DBB74570E6534C67778FF9E /* Pods-flixTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		C6D039C128CC49B9003593F1 = {
 			isa = PBXGroup;
 			children = (
@@ -128,8 +114,8 @@
 				C6D039E328CC49C2003593F1 /* flixTests */,
 				C6D039ED28CC49C2003593F1 /* flixUITests */,
 				C6D039CB28CC49BA003593F1 /* Products */,
-				83E14B070E97656C12E72B82 /* Pods */,
 				55016A09936A313D34021981 /* Frameworks */,
+				E22BF81F57837ADE98ADE97D /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -174,6 +160,20 @@
 				C6D039F028CC49C2003593F1 /* flixUITestsLaunchTests.swift */,
 			);
 			path = flixUITests;
+			sourceTree = "<group>";
+		};
+		E22BF81F57837ADE98ADE97D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F8EF43D7C3C1DED91EF13D7B /* Pods-flix.debug.xcconfig */,
+				E47EA65A5C9285B486990F6D /* Pods-flix.release.xcconfig */,
+				598EE641AAC30E0BEEAFDD32 /* Pods-flix-flixUITests.debug.xcconfig */,
+				B3398176601DE780911D4D7D /* Pods-flix-flixUITests.release.xcconfig */,
+				50188B34256A3554DB354499 /* Pods-flixTests.debug.xcconfig */,
+				F9904A14BB3E55D932FE66AD /* Pods-flixTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -597,7 +597,7 @@
 		};
 		C6D039F528CC49C2003593F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6B30D5E3B80847D78066A6CA /* Pods-flix.debug.xcconfig */;
+			baseConfigurationReference = F8EF43D7C3C1DED91EF13D7B /* Pods-flix.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -627,7 +627,7 @@
 		};
 		C6D039F628CC49C2003593F1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 40C161C2FCD9E091C16C1217 /* Pods-flix.release.xcconfig */;
+			baseConfigurationReference = E47EA65A5C9285B486990F6D /* Pods-flix.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -657,7 +657,7 @@
 		};
 		C6D039F828CC49C2003593F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 739D89EB6578CE0AC20A2C25 /* Pods-flixTests.debug.xcconfig */;
+			baseConfigurationReference = 50188B34256A3554DB354499 /* Pods-flixTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -678,7 +678,7 @@
 		};
 		C6D039F928CC49C2003593F1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6DBB74570E6534C67778FF9E /* Pods-flixTests.release.xcconfig */;
+			baseConfigurationReference = F9904A14BB3E55D932FE66AD /* Pods-flixTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -699,7 +699,7 @@
 		};
 		C6D039FB28CC49C2003593F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9B4F668DA60F9035936241D5 /* Pods-flix-flixUITests.debug.xcconfig */;
+			baseConfigurationReference = 598EE641AAC30E0BEEAFDD32 /* Pods-flix-flixUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -718,7 +718,7 @@
 		};
 		C6D039FC28CC49C2003593F1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0B6B2AE1AB7EEFCBA54D00C3 /* Pods-flix-flixUITests.release.xcconfig */;
+			baseConfigurationReference = B3398176601DE780911D4D7D /* Pods-flix-flixUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

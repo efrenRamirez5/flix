@@ -21,6 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Describe any challenges encountered while building the app.
 
+- I ran into some issues with the frameworks that I was using, so I used my research and debugging skills to help find a solution.
+- There was also an issue with getting the size of the cells to be slightly larger and make them fit well on the screen which luckiy, I was able to fix.
 ---
 
 ## Flix Part 1
@@ -45,4 +47,4 @@ Describe any challenges encountered while building the app.
 
 Describe any challenges encountered while building the app.
 
-I ran into development issues upon completing this assignment and was rushed to make sure everything was done on time.
+- I ran into development issues upon completing this assignment and was rushed to make sure everything was done on time.

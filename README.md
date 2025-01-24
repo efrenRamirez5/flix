@@ -14,10 +14,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78672241/191090341-be89ebf7-8943-4368-9fe3-609d36884634.gif)
 
-### Notes
-
-- I ran into some issues with the frameworks that I was using, so I used my research and debugging skills to help find a solution.
-- There was also an issue with getting the size of the cells to be slightly larger and make them fit well on the screen which luckiy, I was able to fix.
 ---
 
 ## Flix Part 1
@@ -32,7 +28,3 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78672241/191122919-8a020d02-125a-4085-aca7-4cb2f668ae53.gif)
-
-### Notes
-
-- I ran into development issues upon completing this assignment and was rushed to make sure everything was done on time.
